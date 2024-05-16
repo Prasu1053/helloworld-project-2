@@ -17,7 +17,7 @@
          <img src="assets/img/login-bg.png" alt="image" class="login__bg">
 
          <form action="" class="login__form">
-            <h1 class="login__title">Login</h1>
+            <h2 class="login__title">Login</h2>
 
             <div class="login__inputs">
                <div class="login__box">
